@@ -8,7 +8,7 @@
   
   ![IMG_20250524_212709](https://github.com/user-attachments/assets/67fa1070-f2e3-4356-b15c-fc4ffd190c40)
   <h1 align="center">Hi 👋, I'm Dibya Jyoti Mishra</h1>
-<h3 align="center">A passionate AI/ML developer , interest in NLP and deep learning</h3>
+<h3 align="center">A passionate AI/ML learner , interest in NLP and deep learning</h3>
 <img align="right" all="coding" width="400" src=https://sl.bing.net/goA9T0N46Ym">
 
 
@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **python, AI/ML,NLP,DEEP LEARNING**
 
-- 💬 Ask me about **hobby is playing cricket,learning new skills**
+- 💬 Ask me about **hobby is playing cricket,learning new skills Open to collaboration any project that use this language**
 
 - 📫 How to reach me **dibyajyotilikun8@gmail.com**
 
