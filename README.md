@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dibya77746
+- 👋 Hi, I’m Dibya jyoti Mishra 
 - 👀 I’m interested in ... programing language python, Generative AI, Robotics.  
 - 🌱 I’m currently learning ...Deep learning and NLP 
 - 💞️ I’m looking to collaborate on ...various AI and python project.  let's work together to create a better AI world.  
